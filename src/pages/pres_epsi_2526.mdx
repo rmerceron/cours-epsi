@@ -1,0 +1,21 @@
+---
+title: Présentation EPSI 25-26
+---
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+export const PdfView = () => {
+  const pdfUrl = useBaseUrl('/pdf/i1_rentree_apprenants2526.pdf');
+  return (
+    <iframe
+      src={pdfUrl}
+      width="100%"
+      height="800px"
+      style={{border: 'none'}}
+    />
+  );
+};
+
+# Visualisation du PDF
+
+<PdfView />
