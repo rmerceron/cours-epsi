@@ -19,10 +19,22 @@
   padding: 1.5rem;
   border-radius: 8px;
   background: white;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
 }
 
 .featureCard:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transform: translateY(-4px);
+}
+
+.featureCard h3 {
+  color: #1c1e21 !important;
+}
+
+.featureCard p {
+  color: #545454 !important;
 }
 
 .featureContainer {
@@ -33,4 +45,22 @@
   flex-wrap: wrap;
   width: 100%;
   max-width: 1200px;
+}
+
+/* Styles pour le thème sombre */
+[data-theme='dark'] .featureCard {
+  background: #1e1e1e;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+}
+
+[data-theme='dark'] .featureCard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+}
+
+[data-theme='dark'] .featureCard h3 {
+  color: #ffffff !important;
+}
+
+[data-theme='dark'] .featureCard p {
+  color: #b4b4b4 !important;
 }

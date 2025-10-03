@@ -87,11 +87,11 @@ const config: Config = {
           position: 'left',
           label: 'Cours',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/rmerceron/cours-epsi',
-          label: 'GitHub',
           position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
