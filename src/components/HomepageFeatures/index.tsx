@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
         Accès aux informations de l'EPSI, y compris les présentations et ressources pour l'année 2025-2026.
       </>
     ),
-    link: 'pres_epsi_2526',
+    link: 'epsi',
   },
   {
     title: 'Informations EISI',
