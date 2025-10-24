@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Cours EPSI',
   tagline: 'Mastère EISI - Cours de Romain MERCERON',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon.ico',
 
   future: {
     v4: true,
