@@ -1,9 +1,15 @@
 ---
-sidebar_label: Cours
+sidebar_position: 1
+sidebar_label: Sommaire
 slug: /cours
-sidebar_class_name: hidden
 ---
 
-# Cours
+# Sommaire des cours
 
-[test](./test/index.md)
+Bienvenue sur les notes de cours de Mastère SIN EISI a l'EPSI de Nantes.
+
+## Modules
+
+| Module                                                                                    | Intervenant          | Contenu                                                                      |
+|-------------------------------------------------------------------------------------------|----------------------|------------------------------------------------------------------------------|
+| [Analyse des besoins & cahier des charges](./Analyse%20besoins%20cahier%20des%20charges/) | Ylies AIT IHADDADENE | Analyse du besoin, modelisation des processus, exigences, cahier des charges |
