@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Architectures applicatives
 
-Module présenté par Antoine LUDWIG.
+Module présenté par Antoine LUDWIG (A.L.I.C.E Développement Web).
 
 **Objectif du module** : Comprendre les principes fondamentaux de l'architecture logicielle, de la décomposition en couches aux design patterns, en passant par la conception orientée objet et la modélisation.
 
