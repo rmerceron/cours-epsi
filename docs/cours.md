@@ -10,10 +10,11 @@ Bienvenue sur les notes de cours de Mastère SIN EISI a l'EPSI de Nantes.
 
 ## Modules
 
-| Module                                             | Intervenant          | Contenu                                                                                                                       |
-|----------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| [Analyse des besoins & cahier des charges](./Analyse%20besoins%20cahier%20des%20charges/) | Ylies AIT IHADDADENE | Analyse du besoin, modelisation des processus, exigences, cahier des charges                                                  |
+| Module                                         | Intervenant          | Contenu                                                                                                                      |
+|------------------------------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [Analyse des besoins & cahier des charges](./Analyse%20besoins%20cahier%20des%20charges/) | Ylies AIT IHADDADENE | Analyse du besoin, modelisation des processus, exigences, cahier des charges                                                 |
 | [Architectures applicatives](./Architectures%20applicatives/) | Antoine LUDWIG       | Fondamentaux de l'architecture logicielle, décomposition en couches, design patterns, conception orientée objet, modélisation |
-| [Atelier intégration de données](./Atelier%20intégration%20de%20données/) | Antoine LUDWIG       | Architecture d'un Système d'Information Décisionnel (SID), maîtriser les processus ETL                                        |
+| [Atelier intégration de données](./Atelier%20intégration%20de%20données/) | Antoine LUDWIG       | Architecture d'un Système d'Information Décisionnel (SID), maîtriser les processus ETL                                       |
 | [Sécurité informatique et RGPD](./Sécurité%20informatique%20et%20RGPD/) | Frédéric Libaud      | Réglementations, certifications (ISO 2700x), méthodologies, propriété intellectuelle, protection du patrimoine informationnel |
-| [Security by Design](./Security%20by%20Design/)  | Youenn DUVAL  | Intégrer des mesures de sécurité dans toutes les étapes du cycle de vie du développement |
+| [Security by Design](./Security%20by%20Design/) | Youenn DUVAL         | Intégrer des mesures de sécurité dans toutes les étapes du cycle de vie du développement |
+| [Datascience et ML](./Datascience%20et%20ML/)  | Jean-Claude HOUBART  | Devenir opérationnel sur un projet intégrant du Machine Learning |
